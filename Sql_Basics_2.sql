@@ -99,7 +99,7 @@ reason it's working because:
 -- -----------------------------
 
 -- CASE
--- Label ages younger than 27 as Chi1d, 
+-- Label ages younger than 27 as Child, 
 -- ages 27 to 30 as Young, 
 -- ages older than 30 as Old 
 -- Show in new column : NEW_COLUMN
